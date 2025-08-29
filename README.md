@@ -1,7 +1,7 @@
 # 🖥️ Active Directory Enterprise Lab
 
 ## 📌 Overview
-This project simulates a **corporate-grade Active Directory environment** built on Windows Server 2019.  
+This project simulates a **corporate-grade Active Directory environment** built on Windows Server 2022.  
 It includes multi-domain controllers, DNS/DHCP integration, security policies, and PowerShell automation.  
 The goal was to design, deploy, and manage a secure, scalable directory service similar to what is used in enterprise IT environments.  
 
@@ -40,12 +40,12 @@ The goal was to design, deploy, and manage a secure, scalable directory service 
 ---
 
 ## 🚀 Tools & Technologies
-- **Windows Server 2019**  
+- **Windows Server 2022**  
 - **Active Directory Domain Services (AD DS)**  
 - **DNS & DHCP**  
 - **PowerShell**  
 - **VMware Workstation / VirtualBox**  
-- **Visio / Lucidchart** (for diagramming)  
+- **Draw.io** (for diagramming)  
 
 ---
 
